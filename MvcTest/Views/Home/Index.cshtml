@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<h2>
+    Index</h2>
+<button onclick="test()">
+    查看</button>
+<script type="text/javascript">
+    function test() {
+        alert(111);
+        $.ajax({ url: "/home/test", type: "post", success: function (data) {
+            alert(data);
+        }
+        })
+    }
+</script>

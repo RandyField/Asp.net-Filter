@@ -1,0 +1,5 @@
+E:\练习\MvcTest\MvcTest\bin\MvcTest.dll
+E:\练习\MvcTest\MvcTest\bin\MvcTest.pdb
+E:\练习\MvcTest\MvcTest\obj\Debug\ResolveAssemblyReference.cache
+E:\练习\MvcTest\MvcTest\obj\Debug\MvcTest.dll
+E:\练习\MvcTest\MvcTest\obj\Debug\MvcTest.pdb
